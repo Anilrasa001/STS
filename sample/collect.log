@@ -1,0 +1,13 @@
+2025-05-01T16:51:26.004+05:30  INFO 14888 --- [restartedMain] com.example.demo.SampleApplication       : Starting SampleApplication using Java 17.0.12 with PID 14888 (C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\sample\target\classes started by Admin in C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\sample)
+2025-05-01T16:51:26.052+05:30  INFO 14888 --- [restartedMain] com.example.demo.SampleApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-05-01T16:51:26.326+05:30  INFO 14888 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-05-01T16:51:26.327+05:30  INFO 14888 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-05-01T16:51:30.050+05:30  INFO 14888 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-05-01T16:51:30.092+05:30  INFO 14888 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-05-01T16:51:30.094+05:30  INFO 14888 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-05-01T16:51:30.773+05:30  INFO 14888 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2025-05-01T16:51:30.812+05:30  INFO 14888 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-05-01T16:51:30.820+05:30  INFO 14888 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4490 ms
+2025-05-01T16:51:32.068+05:30  INFO 14888 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-05-01T16:51:32.329+05:30  INFO 14888 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-05-01T16:51:32.358+05:30  INFO 14888 --- [restartedMain] com.example.demo.SampleApplication       : Started SampleApplication in 7.828 seconds (process running for 9.264)

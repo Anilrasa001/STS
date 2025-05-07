@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;sample/sonar-scanner.properties&apos; to &apos;sonar-project.properties&apos;" description="Rename resource &apos;sonar-scanner.properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="sonar-scanner.properties" name="sonar-project.properties" stamp="1745313998428" updateReferences="true"/>
+</session>

@@ -1,0 +1,29 @@
+2025-04-21T14:21:53.882+05:30  INFO 17248 --- [restartedMain] com.example.demo.SampleApplication       : Starting SampleApplication using Java 21.0.6 with PID 17248 (C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\sample\target\classes started by Admin in C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\sample)
+2025-04-21T14:21:53.895+05:30  INFO 17248 --- [restartedMain] com.example.demo.SampleApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-04-21T14:21:54.076+05:30  INFO 17248 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-21T14:21:54.077+05:30  INFO 17248 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-21T14:21:57.873+05:30  INFO 17248 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-21T14:21:58.096+05:30  INFO 17248 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-21T14:21:58.098+05:30  INFO 17248 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-21T14:21:58.831+05:30  INFO 17248 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2025-04-21T14:21:58.853+05:30  INFO 17248 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-21T14:21:58.861+05:30  INFO 17248 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4782 ms
+2025-04-21T14:22:00.779+05:30  INFO 17248 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-04-21T14:22:01.127+05:30  INFO 17248 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-21T14:22:01.163+05:30  INFO 17248 --- [restartedMain] com.example.demo.SampleApplication       : Started SampleApplication in 8.921 seconds (process running for 10.607)
+2025-04-21T14:24:12.741+05:30  INFO 19956 --- [restartedMain] com.example.demo.SampleApplication       : Starting SampleApplication using Java 21.0.6 with PID 19956 (C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\sample\target\classes started by Admin in C:\Users\Admin\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\sample)
+2025-04-21T14:24:12.749+05:30  INFO 19956 --- [restartedMain] com.example.demo.SampleApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-04-21T14:24:12.909+05:30  INFO 19956 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-21T14:24:12.910+05:30  INFO 19956 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-21T14:24:17.568+05:30  INFO 19956 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-21T14:24:17.662+05:30  INFO 19956 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-21T14:24:17.663+05:30  INFO 19956 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-21T14:24:18.300+05:30  INFO 19956 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2025-04-21T14:24:18.317+05:30  INFO 19956 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-21T14:24:18.318+05:30  INFO 19956 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 5404 ms
+2025-04-21T14:24:20.193+05:30  INFO 19956 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-04-21T14:24:20.505+05:30  INFO 19956 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-21T14:24:20.533+05:30  INFO 19956 --- [restartedMain] com.example.demo.SampleApplication       : Started SampleApplication in 9.234 seconds (process running for 10.433)
+2025-04-21T14:42:24.097+05:30  INFO 19956 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-04-21T14:42:24.119+05:30  INFO 19956 --- [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-21T14:42:24.147+05:30  INFO 19956 --- [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete

@@ -1,0 +1,9 @@
+@RestController
+@RequestMapping("/products")
+public class ProductController {
+
+    @GetMapping("/{productId}")
+    public ResponseEntity<String> getProductById(@PathVariable String productId) {
+        return ResponseEntity.ok("Product details for ID: " + productId);
+    }
+}
